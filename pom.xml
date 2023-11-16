@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>aws</artifactId>
-    <version>3.1.1</version>
+    <version>3.1.5</version>
     <packaging>jar</packaging>
 
     <name>particle-aws</name>
@@ -34,13 +34,13 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>20</java.version>
+        <java.version>21</java.version>
     </properties>
 
     <parent>
         <groupId>io.sdsolutions.particle</groupId>
         <artifactId>dependencies</artifactId>
-        <version>3.1.1</version>
+        <version>3.1.5</version>
     </parent>
 
     <dependencies>
